@@ -1,0 +1,87 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    text-align: justify; 
+    padding-left: 80px;
+    padding-top: 220px;
+    position: absolute;
+ 
+}
+br{
+    
+    color: black;
+}
+.menu{
+    color:orangered;
+    margin: 10px 80px;
+    padding-left: 40px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 12px;
+   
+}
+.menu span{
+    display: inline; 
+    margin-right: 20px;
+}
+
+ img{
+    width: 20px; /* Define a largura da imagem */
+    height: 20px; /* Mantém a proporção da imagem */
+    margin-right: 5px; /* Adiciona margem à direita da imagem */
+    margin-top: 0px;
+    color: orangered;
+
+}
+.div img espaco{
+    margin-right: 80px;
+}
+.cor{
+color: orangered;
+
+}
+p.one{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-left: 100px;
+    line-height: 2px;
+    letter-spacing: 6px;
+    color:black;
+}
+p.thu{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 780;
+    line-height: 2px;
+    margin-left: 100px;
+    color: black;
+}
+  div.opcoes{
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px; 
+    font-size: 11px;
+    text-align: right;
+    
+    
+
+
+  } 
+  img.espaco{
+    margin-left: 30px;
+
+  }
+img.logo{
+    width: 400px;
+    height: 400px;
+    margin-top:0 ;
+  
+    
+    
+
+}
